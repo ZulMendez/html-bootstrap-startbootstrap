@@ -14,5 +14,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZulMendez/html-bootstrap-startbootstrap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ZulMendez/html-bootstrap-startbootstrap/issues"
+  },
+  "homepage": "https://github.com/ZulMendez/html-bootstrap-startbootstrap#readme"
 }
